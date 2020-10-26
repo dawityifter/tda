@@ -1,7 +1,6 @@
 # tdaapp
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
-[![Build Status(https://img.shields.io/travis/nightscout/cgm-remote-monitor.svg)][https://travis-ci.org/nightscout/cgm-remote-monitor]
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?env[SLACK_SUBDOMAIN]=tdana)
 
 This application was generated using JHipster 6.10.4, you can find documentation and help at [https://www.jhipster.tech/documentation-archive/v6.10.4](https://www.jhipster.tech/documentation-archive/v6.10.4).
 
