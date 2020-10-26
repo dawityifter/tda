@@ -1,0 +1,12 @@
+{
+  "_comment": "Please see https://devcenter.heroku.com/articles/heroku-button This file will add Deploy to Heroku Buttton ",
+  "name": "TDA Web App",
+  "repository": "https://github.com/dawityifter/tdaapp",
+  "env": {
+    "HEROKU_USER_NAME": {
+      "description": "UserName for Heroku",
+      "value": "TBD",
+      "required": false
+    }
+  }
+}

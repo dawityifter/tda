@@ -38,7 +38,7 @@
     "nativeLanguage": "en",
     "languages": ["en", "it"],
     "blueprints": [],
-    "herokuAppName": "tda",
+    "herokuAppName": "tdana",
     "herokuDeployType": "jar",
     "herokuJavaVersion": "11",
     "useOkta": false,
