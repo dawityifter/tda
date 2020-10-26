@@ -37,6 +37,12 @@
     "enableTranslation": true,
     "nativeLanguage": "en",
     "languages": ["en", "it"],
-    "blueprints": []
+    "blueprints": [],
+    "herokuAppName": "tda",
+    "herokuDeployType": "jar",
+    "herokuJavaVersion": "11",
+    "useOkta": false,
+    "oktaAdminLogin": "dawityifter@gmail.com",
+    "oktaAdminPassword": "TdaTigray12"
   }
 }
